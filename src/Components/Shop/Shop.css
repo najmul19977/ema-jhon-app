@@ -16,3 +16,10 @@
     top: 10px;
     background-color: gainsboro;
 }
+.btn-proceed{
+    margin-top: 10px;
+    width:90%;
+    background-color: #FF9900;
+    border-radius: 8px;
+    color: white;
+}
