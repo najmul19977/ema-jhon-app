@@ -1,0 +1,36 @@
+.form-container{
+    width: 500px;
+    height: 550px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin: 10px auto;
+    padding-left: 40px;
+    padding: 20px;
+}
+.form-title{
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    text-align: center;
+}
+.form-container label{
+    display: block;
+}
+.form-container input{
+    width: 400px;
+    height: 50px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-size: 1rem;
+    padding-left: 10px;
+}
+.btn-submit{
+    
+    
+    background-color: goldenrod;
+   
+    
+
+}
